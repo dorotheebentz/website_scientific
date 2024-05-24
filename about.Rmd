@@ -40,7 +40,7 @@ library(postcards)
 
 **Current institutional responsibilities** 
   
-  + Since 2024 Head of the [Department of Psychology Ethics Committee](https://psychologie.unibas.ch/en/research/research-groups/department-of-psychology-ethics-committee/) | University of Basel
+  + Since 2024 Chair of the [Department of Psychology Ethics Committee](https://psychologie.unibas.ch/en/research/research-groups/department-of-psychology-ethics-committee/) | University of Basel
   + Since 2023 [Deputy Diversity Delegate](https://psychologie.unibas.ch/de/fakultaet/diversity-inclusion/) | Faculty of Psychology . University of Basel
   + Since 2022 Executive Board Member of the [Graduate School of Psychology](https://psychologie.unibas.ch/en/studies/doctoral-studies/gsp/) | Faculty of Psychology . University of Basel
   

@@ -11,7 +11,7 @@ library(postcards)
 ```
 **Prinicipal Investigator**
 
-- **VALPRO**
+- *VALPRO*
 <p style="text-align:justify;">The randomized-controlled trial tested whether the combination of valproic acid with fear memory retrieval before standard exposure enhances the treatment outcome for patients with fear of spiders. Key collaborating partners were [Prof. Dr. Johannes Gräff](https://people.epfl.ch/johannes.graeff?lang=en), the clinic director of the Psychiatric University Clinics Basel [Prof. Dr. Undine Lang](https://www.upk.ch/ueber-uns/klinikportrait/leitungspersonen/detail/team/lang-undine) and [Prof. Dr. Dominique de Quervain](https://mcn.unibas.ch/de/personen/dominique-de-quervain/). Click here for the preregristration on [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT02789813?locStr=Basel,%20Switzerland&country=Switzerland&state=Basel%20City&city=Basel&term=Phobia&rank=3) and [first results](https://link.springer.com/article/10.1007/s00702-023-02717-3). The research report is currently under peer review, check out later for updates.<p style="text-align:justify;">
  
  - *Hypothalamic-pituitary-adrenal axis functioning in anxiety disorders*
@@ -30,6 +30,6 @@ library(postcards)
 
 **Co-investigator**
 
-- **OCD-Detect**
+- *OCD-Detect*
 <p style="text-align:justify;">The project investigates the feasibility and acceptance of the use of a wearable for automatic detection of compulsive hand-washing in a clinical population with obsessive-compulsive disorder. Principal investigator of the project is [PD. Dr. Karina Wahl](https://psychologie.unibas.ch/de/personen/karina-wahl/) from the University of Basel.<p style="text-align:justify;"> 
 
