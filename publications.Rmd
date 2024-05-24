@@ -9,10 +9,10 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 library(postcards)
 ```
-**For an automated list of my publications see my [Google Scholar profile](https://scholar.google.at/citations?user=tib2ADcAAAAJ&hl=en)**
+*For an automated list of my publications see my [Google Scholar profile](https://scholar.google.at/citations?user=tib2ADcAAAAJ&hl=en)*
 
 
-**Peer-reviewed publications**
+*Peer-reviewed publications*
 
 + Kieraité M, Novoselac A, Bättig JJ, Rühlmann C Bentz D, Noboa V, Seifritz E, Egger S, Weidt S. Relationship between sense of coherence and depression, a network analysis. Current Psycholology 5-year [IF: 2.8] (2024). https://doi.org/10.1007/s12144-024-06034-0
 
@@ -46,7 +46,7 @@ library(postcards)
 Verhaltensmedizin, 31: 130 (Special Issue: Anxiety disorders).
 
 
-**Peer-reviewed books or monographs**
+*Peer-reviewed books or monographs*
 
 +	Bentz D (2012). The role of stress and glucocorticoids in the regulation of fear memory.
 Cumulative dissertation. University of Basel, Faculty of Psychology.
@@ -54,7 +54,7 @@ Cumulative dissertation. University of Basel, Faculty of Psychology.
 +	Bentz D (2006). [A biopsychological model of etiopathogenesis of Premenstrual Dysphoric Disorder (PMDS)]. Master thesis. University of Trier, Germany.
 
 
-**Peer-reviewed conference proceedings**
+*Peer-reviewed conference proceedings*
 
 +	Bentz D, Huber C, Dechent F, Schicktanz N, Howald J, Schenker M, Zimmer A, Gräff J, Lang U, de Quervain DJF (2023). Influence of valproic acid combined with reactivation of fear memory on outcome of extinction-based therapy in patients with spider phobia. Journal of Neural Transmission. [https://doi.org/10.1007/s00702-023-02717-3](https://doi.org/10.1007/s00702-023-02717-3)
 
@@ -65,7 +65,7 @@ Cumulative dissertation. University of Basel, Faculty of Psychology.
 + Wilhelm FH, Michael T, Margraf J, Bentz D, Bolt O, Wiederhold BK, de Quervain D (2009). Cognitive enhancers as adjuncts to psychotherapy: Use of glucocorticoids in phobic individuals to facilitate extinction of fear. Psychophysiology, 46: S141
 
 
-**Contributions to books**
+*Contributions to books*
 
 +	Bentz D, Mannstadt S (2010). [Specific phobia]. In G Meinlschmidt, S Schneider, J Margraf (Eds.), [Textbook of behavioral therapy: Material for psychotherapy]. Berlin: Springer.
 
@@ -76,7 +76,7 @@ Cumulative dissertation. University of Basel, Faculty of Psychology.
 +	Bentz D, Michael T, Margraf J (2009). [Confrontation and exposure]. [Psychiatry and psychotherapy up2date], 3(6), 409–428. 
 
 
-**Publications in non-peer-reviewed journals**
+*Publications in non-peer-reviewed journals*
 
 + Bentz D. [Treatment of specific phobias in the virtual world]. Schweizer Zeitschrift für Psychiatrie & Neurologie, June 16, 2017. [publication](https://www.rosenfluh.ch/psychiatrie-neurologie-2017-03/behandlung-von-spezifischen-phobien-in-der-virtuellen-welt)
 
@@ -85,7 +85,7 @@ Cumulative dissertation. University of Basel, Faculty of Psychology.
 + Bentz D, de Quervain DJF, Bolt OC, Wilhelm FH, Michael T, Wiederhold BK, Margraf J, Cyber Therapy & Rehabilitation, May 28, 2014. [publication](http://www.cybertherapyandrehabilitation.com/2014/05/glucocorticoids-enhance-extinctionbased-psychotherapy-virtual-reality/)
 
 
-**Preprints**
+*Preprints*
 
 + de Quervain D, Aerni A, Amini E, Bentz D, Coynel D, Gerhards C, Fehlmann B, Freytag V, Papassotiropoulos A, Schicktanz N, Schlitt, T, Zimmer A, Zuber P (March 2021). Swiss corona stress study: Survey in high school students.[https://doi.org/10.31219/osf.io/fswck](https://doi.org/10.31219/osf.io/fswck)
 
