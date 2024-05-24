@@ -1,0 +1,18 @@
+---
+title: "contact"
+output:
+  postcards::solana
+side: distill::distill_article
+description: |
+  Scientist-Practioner, Lecturer, Supervisor
+---
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(postcards)
+```
+
+Dorothée Bentz, PhD (she/her) | 
+University of Basel | Faculty of Psychology |
+Missionsstrasse 62 | 4055 Basel | Switzerland |
+[dorothee.bentz@unibas.ch](dorothee.bentz@unibas.ch)

@@ -1,0 +1,96 @@
+---
+title: "publications"
+output:
+  postcards::solana
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(postcards)
+```
+**For an automated list of my publications see my [Google Scholar profile](https://scholar.google.at/citations?user=tib2ADcAAAAJ&hl=en)**
+
+
+**Peer-reviewed publications**
+
++ Kieraité M, Novoselac A, Bättig JJ, Rühlmann C Bentz D, Noboa V, Seifritz E, Egger S, Weidt S. Relationship between sense of coherence and depression, a network analysis. Current Psycholology 5-year [IF: 2.8] (2024). https://doi.org/10.1007/s12144-024-06034-0
+
++	Fink-Lamotte, J, Hilbert, K, Bentz, D, Blackwell, SE, Boehnke, JR, Burghardt, J, … Niemeyer, H (2024). Response to responsible research assessment I and II from the perspective of the DGPs working group on open science in clinical psychology. Meta-Psychology, 8. [https://doi.org/10.17605/OSF.IO/27NF6](https://doi.org/10.17605/OSF.IO/27NF6)
+
++	Fehlmann B, Müller FD, Wang N, Ibach MK, Schlitt T, Bentz D, Zimmer A, Papassotiropoulos A, de Quervain D (2023). Effectiveness of a virtual-reality-based mutual gaze training to reduce fear of public speaking: A randomized controlled trial. Journal of Affective Disorders Reports, 14: 100627. [https://doi.org/10.1016/j.jadr.2023.100627](https://doi.org/10.1016/j.jadr.2023.100627)
+
++	Otte J, Schicktanz N, Bentz D (2023) Impact of the COVID-19 pandemic on obsessive-compulsive symptoms in the Swiss general population. Front Psychol, 14:1071205. [https://doi.org/10.3389/fpsyg.2023.1071205](https://doi.org/10.1016/j.jadr.2023.100627) [IF: 3.8]
+
++	Sabouhi S, Vaezi A, Sharbafchi M, Aerni A, Bentz D, Coynel D, de Quervain D, Fehlmann B, Freytag V, Gerhards C, Papassotiropoulos A, Schicktanz N, Schlitt, T, Zimmer A, Zuber P, Amini E (2022). The Iranian corona stress study: Psychological impacts of COVID-19 pandemic in an Iranian population. I J Prev Med, 13: 129. [http://doi.org/10.4103/ijpvm.ijpvm_281_21](http://doi.org/10.4103/ijpvm.ijpvm_281_21) [IF: 2.1]
+
++	Zimmer A, Wang N, Ibach MK, Fehlmann B, Schicktanz NS, Bentz D, Michael T, Papassotiropoulos A, de Quervain D (2021). Effectiveness of a smartphone-based, augmented reality exposure app to reduce fear of spiders in real-life: A randomized controlled trial. Journal of Anxiety Disorders, 82: 102442. [https://doi.org/10.1016/j.janxdis.2021.102442](https://doi.org/10.1016/j.janxdis.2021.102442) [IF: 13.7]
+
++	Bentz D, Wang N, Ibach MK, Schicktanz NS, Zimmer A, Papassotiropoulos A, de Quervain D (2021). Effectiveness of a stand-alone, smartphone-based virtual reality exposure app to reduce fear of heights in real-life: A randomized trial. Npj Digital Medicine, 4: 16. [https://doi.org/10.1038/s41746-021-00387-7](https://doi.org/10.1038/s41746-021-00387-7) [IF: 15.4]
+
++	Gaab J, Bürgin D, Locher C, Werner C, Urech S, Bratschi C, Bartolomé Garcia L, Hauke M, Bitter S, Bohny M, Bentz D (2019). Endogenous cortisol and conditioned placebo effects on pain – A randomized trial. Journal of Psychosomatic Research, 123: 109739. [https://doi.org/10.1016/j.jpsychores.2019.109739](https://doi.org/10.1016/j.jpsychores.2019.109739) [IF: 2.9]
+
++ Bentz D, Schiller D (2015). Fear processing: Models and mechanisms. Wiley Interdiscip Rev Cogn Sci, 6: 427. [https://doi.org/10.1002/wcs.1353](https://doi.org/10.1002/wcs.1353) [IF: 1.7]
+
++	Walter M, Bentz D, Schicktanz N, Milnik A, Aerni A, Gerhards C, Schwegler K, Vogel M, Blum J, Schmid O, Roozendaal B, Lang UE, Borgwardt S, de Quervain D (2015). Effects of cortisol administration on craving in heroin addicts. Transl Psychiatry, 5: e610. [http://dx.doi.org/10.1038/tp.2015.101](http://dx.doi.org/10.1038/tp.2015.101) [IF: 5.5]
+
++	Bentz D, Michael T, Wilhelm FH, Hartmann FR, Kunz S, Rudolf von Rohr IR, de Quervain DJF (2013). Influence of stress on fear memory processes in an aversive differential conditioning paradigm in humans. Psychoneuroendocrinology, 38: 1186. [https://doi.org/10.1016/j.psyneuen.2012.12.018](https://doi.org/10.1016/j.psyneuen.2012.12.018) [IF: 5.6]
+
++	de Quervain DJF, Bentz D, Michael T, Bolt OC, Wiederhold BK, Margraf J, Wilhelm FH (2011). Glucocorticoids enhance extinction-based psychotherapy. Proceedings of the National Academy of Sciences, 108: 6621. [https://doi.org/10.1073/pnas.1018214108](https://doi.org/10.1073/pnas.1018214108) [IF: 9.7]
+
++	Bentz D, Steiner M, Meinlschmidt G (2011). [SIPS – Screening instrument for premenstrual symptoms: The German version of Premenstrual Symptoms Screening Tool to assess clinically relevant disturbances]. Nervenarzt, 1. [https://doi.org/10.1007/s00115-010-3210-6](https://doi.org/10.1007/s00115-010-3210-6) [IF: 0.7]
+
++	Bentz D, Michael T, de Quervain DJF, Wilhelm FH (2010). Enhancing exposure therapy for anxiety disorders with glucocorticoids: From basic mechanisms of emotional learning to clinical applications. Journal of Anxiety Disorders, 24: 223. [https://doi.org/10.1016/j.janxdis.2009.10.011](https://doi.org/10.1016/j.janxdis.2009.10.011) [IF: 2.5]
+
++	Bentz D, Margraf J (2010). [Agoraphobia and panic disorder]. Verhaltenstherapie &
+Verhaltensmedizin, 31: 130 (Special Issue: Anxiety disorders).
+
+
+**Peer-reviewed books or monographs**
+
++	Bentz D (2012). The role of stress and glucocorticoids in the regulation of fear memory.
+Cumulative dissertation. University of Basel, Faculty of Psychology.
+
++	Bentz D (2006). [A biopsychological model of etiopathogenesis of Premenstrual Dysphoric Disorder (PMDS)]. Master thesis. University of Trier, Germany.
+
+
+**Peer-reviewed conference proceedings**
+
++	Bentz D, Huber C, Dechent F, Schicktanz N, Howald J, Schenker M, Zimmer A, Gräff J, Lang U, de Quervain DJF (2023). Influence of valproic acid combined with reactivation of fear memory on outcome of extinction-based therapy in patients with spider phobia. Journal of Neural Transmission. [https://doi.org/10.1007/s00702-023-02717-3](https://doi.org/10.1007/s00702-023-02717-3)
+
++	Schicktanz N, Loos E, Bentz D, Papassotiropoulos A, de Quervain DJF (2022). A working memory intervention to decrease fear of snakes in real-life: A randomised controlled trial. Neuroscience Applied. [https://doi.org/10.1016/j.nsa.2022.100081](https://doi.org/10.1016/j.nsa.2022.100081)
+
++	Fehlmann B, Müller F, Wang N, Ibach MK, Schlitt T, Bentz D, Zimmer A, Papassotiropoulos A, Quervain D (2020). Effectiveness of a virtual reality-based mutual gaze training to reduce fear of public speaking: A randomised controlled trial. SSRN: [https://ssrn.com/abstract=3666844](https://ssrn.com/abstract=3666844)
+
++ Wilhelm FH, Michael T, Margraf J, Bentz D, Bolt O, Wiederhold BK, de Quervain D (2009). Cognitive enhancers as adjuncts to psychotherapy: Use of glucocorticoids in phobic individuals to facilitate extinction of fear. Psychophysiology, 46: S141
+
+
+**Contributions to books**
+
++	Bentz D, Mannstadt S (2010). [Specific phobia]. In G Meinlschmidt, S Schneider, J Margraf (Eds.), [Textbook of behavioral therapy: Material for psychotherapy]. Berlin: Springer.
+
++ Bentz D, Pfaltz M, Wilhelm FH (2010). [Therapy in virtual reality]. In G Meinlschmidt, S Schneider, J Margraf J (Eds.), [Textbook of behavioral therapy: Material for psychotherapy]. Berlin: Springer.
+
++ Pfaltz M, Bentz D, Wilhelm FH (2010). [New technologies in psychological diagnostic and therapy]. In G Meinlschmidt, S Schneider, J Margraf (Eds.), [Textbook of behavioral therapy: Material for psychotherapy]. Berlin: Springer.
+
++	Bentz D, Michael T, Margraf J (2009). [Confrontation and exposure]. [Psychiatry and psychotherapy up2date], 3(6), 409–428. 
+
+
+**Publications in non-peer-reviewed journals**
+
++ Bentz D. [Treatment of specific phobias in the virtual world]. Schweizer Zeitschrift für Psychiatrie & Neurologie, June 16, 2017. [publication](https://www.rosenfluh.ch/psychiatrie-neurologie-2017-03/behandlung-von-spezifischen-phobien-in-der-virtuellen-welt)
+
++ Zimmer A, Bentz D. Virtual reality smartphone application for the home treatment of fear of heights. Nature Portfolio Health Community, March 8, 2021. [publication](https://healthcommunity.nature.com/posts/virtual-reality-smartphone-application-for-the-home-treatment-of-fear-of-heights) 
+
++ Bentz D, de Quervain DJF, Bolt OC, Wilhelm FH, Michael T, Wiederhold BK, Margraf J, Cyber Therapy & Rehabilitation, May 28, 2014. [publication](http://www.cybertherapyandrehabilitation.com/2014/05/glucocorticoids-enhance-extinctionbased-psychotherapy-virtual-reality/)
+
+
+**Preprints**
+
++ de Quervain D, Aerni A, Amini E, Bentz D, Coynel D, Gerhards C, Fehlmann B, Freytag V, Papassotiropoulos A, Schicktanz N, Schlitt, T, Zimmer A, Zuber P (March 2021). Swiss corona stress study: Survey in high school students.[https://doi.org/10.31219/osf.io/fswck](https://doi.org/10.31219/osf.io/fswck)
+
++ de Quervain D, Aerni A, Amini E, Bentz D, Coynel D, Gerhards C, Fehlmann B, Freytag V, Papassotiropoulos A, Schicktanz N, Schlitt, T, Zimmer A, Zuber P (November 2020). The Swiss corona stress study: Second pandemic wave. [https://doi.org/10.31219/osf.io/6cseh](https://doi.org/10.31219/osf.io/6cseh)
+
++ de Quervain D, Aerni A, Amini E, Bentz D, Coynel D, Gerhards C, Fehlmann B, Freytag V, Papassotiropoulos A, Schicktanz N, Schlitt, T, Zimmer A, Zuber P (April 2020). The Swiss corona stress study. [https://doi.org/10.31219/osf.io/jqw6a](https://doi.org/10.31219/osf.io/jqw6a)
+
+

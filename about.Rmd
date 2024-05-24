@@ -1,0 +1,46 @@
+---
+title: "about me"
+output:
+  postcards::solana
+description: |
+  Scientist-Practioner, Lecturer, Supervisor
+---
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(postcards)
+```
+**Research areas**
+
+  + Developing new prevention and treatment approaches	
+  + Digital interventions for mental health
+  + Harnessing neuroscience findings for novel treatments
+  + Investigating dissemination of established treatments
+
+
+**Education**
+
+  + 2013 State Examination for Psychological Psychotherapist | Germany  
+  + 2012 PhD Psychology | University of Basel . Switzerland
+  + 2006 Diploma Psychology | University of Trier . Germany
+  
+  
+**Licences** 
+
+  + 2020 Practice Licence for Psychotherapy | Canton of Basel-Stadt
+  + 2017 Federal licence Psychotherapy | Swiss Confederation
+  + 2014 Psychotherapy Licence | Germany
+ 
+ 
+**Current positions**
+
+  + Since 2023 Senior research associate | [Division of Cognitive Neuroscience](https://mcn.unibas.ch/de/divisions/cognitive-neuroscience/) . Department of Biomedicine . University of Basel
+  + Since 2022 Program coordinator and lecturer | [PhD program Health & Interventions](https://psychologie.unibas.ch/en/studies/doctoral-studies/doctoral-programs/psychological-interventions/) . Faculty of Psychology . University of Basel 
+  + Since 2020 Psychotherapist and supervisor | [Praxis Bentz](https://www.praxisbentz.ch/foldersen) . Canton of Basel-Stadt
+
+**Current institutional responsibilities** 
+  
+  + Since 2024 Head of the [Department of Psychology Ethics Committee](https://psychologie.unibas.ch/en/research/research-groups/department-of-psychology-ethics-committee/) | University of Basel
+  + Since 2023 [Deputy Diversity Delegate](https://psychologie.unibas.ch/de/fakultaet/diversity-inclusion/) | Faculty of Psychology . University of Basel
+  + Since 2022 Executive Board Member of the [Graduate School of Psychology](https://psychologie.unibas.ch/en/studies/doctoral-studies/gsp/) | Faculty of Psychology . University of Basel
+  

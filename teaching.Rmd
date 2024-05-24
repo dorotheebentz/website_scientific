@@ -1,0 +1,21 @@
+---
+title: "teaching"
+output:
+  postcards::solana
+description: |
+  _at the interface of clinical psychology, neurosience and new technologies_
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(postcards)
+```
+<p style="text-align:justify;">I have supervised 23 master's students and 14 bachelor's students at the [Faculty of Psychology](https://psychologie.unibas.ch/en/), University of Basel.<p style="text-align:justify;">
+
+<p style="text-align:justify;">I have taught courses at the intersection of *clinical psychology*, *neuroscience*, and *new technologies* at the bachelor's, master's, and PhD level. Since 2022, I have been developing the curriculum for [PhD program Health & Interventions](https://psychologie.unibas.ch/de/studium/doktoratsstudium/doktoratsprogramme/psychological-interventions/).<p style="text-align:justify;">
+
+<p style="text-align:justify;">In my courses, I place great importance on *practical application* as well as the development of *scientific core competencies* and the expansion of *individual skills*. In the [PhD program Health & Interventions](https://psychologie.unibas.ch/de/studium/doktoratsstudium/doktoratsprogramme/psychological-interventions/), I also specifically design and teach workshops on scientific core competencies, *career development*, and *Open Science*, and moderate the [colloquium](https://vorlesungsverzeichnis.unibas.ch/de/home?id=280943) of the [PhD program Health & Interventions](https://psychologie.unibas.ch/de/studium/doktoratsstudium/doktoratsprogramme/psychological-interventions/).<p style="text-align:justify;">
+
+<p style="text-align:justify;">In 2023, with [Prof. Dr. Tara Donker](https://www.psychologie.uni-freiburg.de/abteilungen-en/psychobio/team/dr.-tara-donker?set_language=en) (University of Freiburg, Germany) and [Dr. Loreen Tisdall](https://psychologie.unibas.ch/de/personen/loreen-tisdall/) (University of Basel), I secured a [Cross-Border Education Grant](https://www.unibas.ch/de/Universitaet/Administration-Services/Generalsekretariat/Eucor-The-European-Campus/Crossborder-Education-Grant.html) that allowed us to implement a bi-national workshop on the topic of *Innovative Technologies in Psychological Science* with PhDs and Postdocs from both universities.<p style="text-align:justify;">
+
+<p style="text-align:justify;">Here you will find an [automated list](https://vorlesungsverzeichnis.unibas.ch/de/recherche?search=1&dozentid=raqysjfykk) of my current and upcoming courses that I have taught or organized for the [PhD program Health & Interventions](https://psychologie.unibas.ch/de/studium/doktoratsstudium/doktoratsprogramme/psychological-interventions/).<p style="text-align:justify;">

@@ -1,0 +1,38 @@
+---
+title: "welcome"
+image: "images/doro_roundededges.png"
+links:
+    - label: ORCiD
+      url: "https://orcid.org/0000-0003-0291-2356"
+    - label: Google Scholar
+      url: "https://scholar.google.com/citations?user=tib2ADcAAAAJ&hl=de&oi=ao"
+    - label: LinkedIn
+      url: "https://www.linkedin.com/in/dobentz/"
+    - label: ResearchGate
+      url: "https://www.researchgate.net/profile/Dorothee-Bentz"
+    - label: Universität Basel
+      url: "https://mcn.unibas.ch/de/personen/dorothee-bentz/"
+output:
+  postcards::solana
+description: |
+  Senior Scientist, University of Basel, Switzerland
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(postcards)
+
+
+```
+
+<p style="text-align:justify;"> My research is guided by leveraging the inherent adaptability in human mental processes to improve mental health. Interdisciplinarity is key to me, drawing from my background in cognitive neuroscience & clinical psychology.<p style="text-align:justify;">
+
+<p style="text-align:justify;"> I employ diverse methodological approaches. Some projects use emerging technologies like [AR](https://doi.org/10.1016/j.janxdis.2021.102442)/[VR]( https://doi.org/10.1038/s41746-021-00387-7) to introduce novel interventions, while others utilize a [translational approach](https://doi.org/10.1007/s00702-023-02717-3) to develop innovative treatments.<p style="text-align:justify;">
+
+<p style="text-align:justify;">I present my research at scientific conferences. Next presentaions will be at the [Deutscher Psychotherapie Kongress](https://deutscher-psychotherapie-kongress.de/detailprogramm/) and the [DGPs/ÖGP Congress 2024](https://dgps2024.univie.ac.at/program/).<p style="text-align:justify;">
+
+<p style="text-align:justify;">I accept media inquiries (e.g. from the [SRF](https://www.srf.ch/news/psychiatrische-kliniken-basel-neue-therapieform-soll-angst-vor-spinnen-lindern)), invited talks for clinicians (e.g. [Privatklinik Wyss](https://www.privatklinik-wyss.ch/veranstaltungen/fachveranstaltungen/anmeldung-fachsymposium-angst)) contribute to educational programs for the general public, such as at the [Brain Week](https://www.neuronetwork.unibas.ch/brainweek17/programm.html) or give courses at the [volkshochschule beider basel](https://www.vhsbb.ch/kursprogramm/lehrgaenge-107/lehrgang-psychologie/4).<p style="text-align:justify;">
+
+<p style="text-align:justify;">I am an active member of the working group of the German Psychological Society on Open Science in Clinical Psychology. See here our [latest paper](https://doi.org/10.17605/OSF.IO/27NF6).<p style="text-align:justify;">
+
