@@ -25,7 +25,7 @@ library(postcards)
 
 
 ```
-
+<br>
 <p style="text-align:justify;"> My research is guided by leveraging the inherent adaptability in human mental processes to improve mental health. Interdisciplinarity is key to me, drawing from my background in cognitive neuroscience & clinical psychology.<p style="text-align:justify;">
 
 <p style="text-align:justify;"> I employ diverse methodological approaches. Some projects use emerging technologies like [AR](https://doi.org/10.1016/j.janxdis.2021.102442)/[VR]( https://doi.org/10.1038/s41746-021-00387-7) to introduce novel interventions, while others utilize a [translational approach](https://doi.org/10.1007/s00702-023-02717-3) to develop innovative treatments.<p style="text-align:justify;">
